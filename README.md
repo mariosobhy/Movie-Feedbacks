@@ -8,8 +8,8 @@ Follow these steps to set up and run the application locally:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/mariosobhy/movie_reviews
-   cd movie_reviews
+   git clone https://github.com/mariosobhy/Movie-Feedbacks
+   cd Movie-Feedbacks
    ```
 
 2. **Install Dependencies**:
